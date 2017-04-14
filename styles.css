@@ -1,0 +1,20 @@
+.que.essaygnrquiz textarea.qtype_essaygnrquiz_response {
+    width: 100%;
+}
+.que.essaygnrquiz textarea.qtype_essaygnrquiz_response.qtype_essaygnrquiz_plain {
+    white-space: pre-wrap;
+    font: inherit;
+}
+.que.essaygnrquiz textarea.qtype_essaygnrquiz_response.qtype_essaygnrquiz_monospaced {
+    white-space: pre;
+    font-family: Andale Mono, Monaco, Courier New, DejaVu Sans Mono, monospace;
+}
+.que.essaygnrquiz .qtype_essaygnrquiz_response {
+    min-height: 3em;
+}
+.que.essaygnrquiz .qtype_essaygnrquiz_response.readonly {
+    background-color: white;
+}
+.que.essaygnrquiz div.qtype_essaygnrquiz_response textarea {
+    width: 100%;
+}
